@@ -1,4 +1,4 @@
-# Wikepedia
+# Wikipedia
 #### Wikipedia is a free online encyclopedia.
 #### By **Wikipedians**
 ## Description
